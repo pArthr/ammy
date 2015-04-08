@@ -9,8 +9,6 @@ import random
 
 import simplejson
 import openerp
-import re
-
 from openerp.osv import osv, fields
 from openerp.http import request
 from openerp.tools.misc import DEFAULT_SERVER_DATETIME_FORMAT
